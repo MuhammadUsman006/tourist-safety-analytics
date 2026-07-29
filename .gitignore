@@ -1,9 +1,14 @@
+# Data files - regenerate by following the README's reproduction steps
 *.csv
 *.graphml
 *.geojson
 saved_model/
 route_maps_final/
+
+# Python environment and cache
 .venv/
 __pycache__/
 *.pyc
+
+# PyCharm project files
 .idea/
